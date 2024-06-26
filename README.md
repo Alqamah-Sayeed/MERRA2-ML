@@ -18,6 +18,7 @@ The dataset consists of two parameters “MERRA2_CNN_Surface_PM25” and “QFLA
 **Gupta, P., & Sayeed, A. (2024). GES DISC Mission Guides: HAQAST Global Hourly PM2.5. https://disc.gsfc.nasa.gov/information/mission-project?title=HAQAST#**
 
 **Sayeed, A., Lin, P., Gupta, P., Tran, N. N. M., Buchard, V., & Christopher, S. (2022). Hourly and Daily PM 2.5 Estimations Using MERRA‐2: A Machine Learning Approach. Earth and Space Science, 9(11), e2022EA002375. https://doi.org/10.1029/2022EA002375**
+
 **Gupta, P., Zhan, S., Mishra, V., Aekakkararungroj, A., Markert, A., Paibong, S., & Chishtie, F. (2021). Machine Learning Algorithm for Estimating Surface PM2.5 in Thailand. Aerosol and Air Quality Research, 21(11), 210105. https://doi.org/10.4209/aaqr.210105**
 
 Buchard, V., da Silva, A. M., Randles, C. A., Colarco, P., Ferrare, R., Hair, J., Hostetler, C., Tackett, J., & Winker, D. (2016). Evaluation of the surface PM2.5 in Version 1 of the NASA MERRA Aerosol Reanalysis over the United States. Atmospheric Environment, 125, 100–111. https://doi.org/10.1016/j.atmosenv.2015.11.004
