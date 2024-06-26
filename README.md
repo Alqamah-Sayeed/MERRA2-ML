@@ -7,6 +7,13 @@ Figure 1: The algorithm for estimation of global hourly surface PM2.5 concentrat
 
 The dataset consists of two parameters “MERRA2_CNN_Surface_PM25” and “QFLAG”. MERRA2_CNN_Surface_PM25 is a 3-dimensional variable (time, lat, lon) and has surface PM2.5 concentrations in microgram/m3. The time dimension starts at 0:30 UTC and ends at 23:30 UTC with hourly frequency. The lat (latitude) is from 90 deg S to 90 deg N with 0.5 deg spatial resolution and lon (longitude) is from 180 deg W to 180 deg E with 0.625 deg patial resolution. QFLAG denotes the quality of data at each grid point where 4 is the highest quality and 1 is the lowest quality. 
 
+**PI: Pawan Gupta (pawan.gupta@nasa.gov, GSFC)**
+
+**Lead Scientist: Alqamah Sayeed (alqamah.sayeed@nasa.gov, MSFC)**
+
+
+
+
 # References:
 **Gupta, P., & Sayeed, A. (2024). GES DISC Mission Guides: HAQAST Global Hourly PM2.5. https://disc.gsfc.nasa.gov/information/mission-project?title=HAQAST#**
 
