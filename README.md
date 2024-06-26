@@ -17,11 +17,14 @@ The dataset consists of two parameters “MERRA2_CNN_Surface_PM25” and “QFLA
 # References:
 **Gupta, P., & Sayeed, A. (2024). GES DISC Mission Guides: HAQAST Global Hourly PM2.5. https://disc.gsfc.nasa.gov/information/mission-project?title=HAQAST#**
 
+**Sayeed, A., Lin, P., Gupta, P., Tran, N. N. M., Buchard, V., & Christopher, S. (2022). Hourly and Daily PM 2.5 Estimations Using MERRA‐2: A Machine Learning Approach. Earth and Space Science, 9(11), e2022EA002375. https://doi.org/10.1029/2022EA002375**
+**Gupta, P., Zhan, S., Mishra, V., Aekakkararungroj, A., Markert, A., Paibong, S., & Chishtie, F. (2021). Machine Learning Algorithm for Estimating Surface PM2.5 in Thailand. Aerosol and Air Quality Research, 21(11), 210105. https://doi.org/10.4209/aaqr.210105**
+
 Buchard, V., da Silva, A. M., Randles, C. A., Colarco, P., Ferrare, R., Hair, J., Hostetler, C., Tackett, J., & Winker, D. (2016). Evaluation of the surface PM2.5 in Version 1 of the NASA MERRA Aerosol Reanalysis over the United States. Atmospheric Environment, 125, 100–111. https://doi.org/10.1016/j.atmosenv.2015.11.004
 
 Colarco, P., da Silva, A., Chin, M., & Diehl, T. (2010). Online simulations of global aerosol distributions in the NASA GEOS-4 model and comparisons to satellite and ground-based aerosol optical depth. Journal of Geophysical Research: Atmospheres, 115(D14). https://doi.org/10.1029/2009JD012820
 
-Gupta, P., Zhan, S., Mishra, V., Aekakkararungroj, A., Markert, A., Paibong, S., & Chishtie, F. (2021). Machine Learning Algorithm for Estimating Surface PM2.5 in Thailand. Aerosol and Air Quality Research, 21(11), 210105. https://doi.org/10.4209/aaqr.210105
+
 
 Koster, R. D., Darmenov, A., & Silva, A. da. (2015, September 1). The Quick Fire Emissions Dataset (QFED): Documentation of Versions 2.1, 2.2 and 2.4. Volume 38; Technical Report Series on Global Modeling and Data Assimilation. https://www.semanticscholar.org/paper/The-Quick-Fire-Emissions-Dataset-(QFED)%3A-of-2.1%2C-on-Koster-Darmenov/f18b64dce3bc0f3384d0d8377b409597c5c665cb
 
@@ -29,6 +32,6 @@ Provençal, S., Buchard, V., da Silva, A. M., Leduc, R., & Barrette, N. (2017). 
 
 Randles, C. A., Silva, A. M. da, Buchard, V., Colarco, P. R., Darmenov, A., Govindaraju, R., Smirnov, A., Holben, B., Ferrare, R., Hair, J., Shinozuka, Y., & Flynn, C. J. (2017). The MERRA-2 Aerosol Reanalysis, 1980 Onward. Part I: System Description and Data Assimilation Evaluation. Journal of Climate, 30(17), 6823–6850. https://doi.org/10.1175/JCLI-D-16-0609.1
 
-Sayeed, A., Lin, P., Gupta, P., Tran, N. N. M., Buchard, V., & Christopher, S. (2022). Hourly and Daily PM 2.5 Estimations Using MERRA‐2: A Machine Learning Approach. Earth and Space Science, 9(11), e2022EA002375. https://doi.org/10.1029/2022EA002375
+
 
 
